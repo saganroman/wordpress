@@ -1,0 +1,19 @@
+<?php
+/**
+ * Show error messages
+ *
+ * @version     3.3.0
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly
+}
+
+if ( ! $messages ){
+    return;
+}
+
+?>
+<?php foreach ( $messages as $message ) : ?>
+    <?php theme_error_message($message); ?>
+<?php endforeach; ?>

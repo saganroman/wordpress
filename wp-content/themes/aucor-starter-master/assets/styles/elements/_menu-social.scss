@@ -1,0 +1,38 @@
+/* ==========================================================================
+ # Social menu
+========================================================================== */
+
+.social-navigation {
+
+  &__items {
+    @include list-reset;
+
+    li {
+      display: inline-block;
+      margin-right: $gap-small;
+      &:last-of-type {
+        margin-right: 0;
+      }
+    }
+
+    a {
+      @include transition;
+      color: $grey-font-color;
+      &:hover, &:focus, &:active {
+        color: $primary;
+      }
+    }
+
+    svg {
+      height: 1.25rem;
+      width: 1.25rem;
+    }
+
+    .social-navigation__item__label {
+      @include visuallyhidden;
+    }
+
+  }
+
+}
+

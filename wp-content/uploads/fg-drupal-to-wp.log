@@ -1,0 +1,70 @@
+=== START import 2019-04-23 18:43:05 ===
+Connected with success to the Drupal database
+Drupal data found:
+84 articles
+26 pages
+0 categories
+32 tags
+
+[WARNING] Your Drupal database contains users. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Drupal database contains custom nodes. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Drupal database contains URL alias. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Drupal database contains navigation menus. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Drupal database contains meta tags. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/metatag/" target="_blank">Metatag add-on</a> to import them.
+[WARNING] Your Drupal database contains translations. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/internationalization/" target="_blank">Internationalization add-on</a> to import them.
+[WARNING] Your Drupal database contains Entity Reference relationships. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/entityreference/" target="_blank">Entity Reference add-on</a> to import them.
+WordPress content removed
+Importing categories...
+0 categories imported
+Importing tags...
+32 tags imported
+Importing articles...
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/12583670_10156478307845243_1344023855_n.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/01/field_image_12583670_10156478307845243_1344023855_n.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-03-08_at_15.54.50.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/03/field_image_screen_shot_2016-03-08_at_15.54.50.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-03-21_at_15.30.43.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/03/field_image_screen_shot_2016-03-21_at_15.30.43.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-04-01_at_09.43.35.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/04/field_image_screen_shot_2016-04-01_at_09.43.35.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/img_0655.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/04/field_image_img_0655.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-05-06_at_15.02.46.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/05/field_image_screen_shot_2016-05-06_at_15.02.46.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-02-15_at_17.44.27.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/05/field_image_screen_shot_2016-02-15_at_17.44.27.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-05-27_at_16.52.53.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/05/field_image_screen_shot_2016-05-27_at_16.52.53.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-06-07_at_14.20.35.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/06/field_image_screen_shot_2016-06-07_at_14.20.35.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-06-13_at_12.07.31.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/06/field_image_screen_shot_2016-06-13_at_12.07.31.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-06-21_at_12.21.20.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/06/field_image_screen_shot_2016-06-21_at_12.21.20.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-06-23_at_15.04.10.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/06/field_image_screen_shot_2016-06-23_at_15.04.10.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-07-05_at_11.40.38.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/07/field_image_screen_shot_2016-07-05_at_11.40.38.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-07-18_at_14.33.20.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/07/field_image_screen_shot_2016-07-18_at_14.33.20.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-08-11_at_12.32.02.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/08/field_image_screen_shot_2016-08-11_at_12.32.02.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-10-11_at_16.19.55.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/10/field_image_screen_shot_2016-10-11_at_16.19.55.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/rahoittaja-470x470.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/10/field_image_rahoittaja-470x470.jpg : Not Found
+[ERROR] Can't copy http://www.etk.fi/wp-content/uploads/2015/10/selvitys_02_2014.pdf to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/11/www.etk_.fi_wp-content_uploads_2015_10_selvitys_02_2014.pdf : Moved Permanently
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/clock-1528798_640.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/12/field_image_clock-1528798_640.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/office-620822_640.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/12/field_image_office-620822_640.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-12-12_at_09.47.29.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/12/field_image_screen_shot_2016-12-12_at_09.47.29.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2016-12-13_at_09.47.53.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/12/field_image_screen_shot_2016-12-13_at_09.47.53.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2017-01-02_at_10.14.15.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/01/field_image_screen_shot_2017-01-02_at_10.14.15.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2017-01-05_at_17.58.37.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/01/field_image_screen_shot_2017-01-05_at_17.58.37.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/arvonlisavero_laskurahoituksessa.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/01/field_image_arvonlisavero_laskurahoituksessa.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/investoinnit_ja_rahoitus.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/03/field_image_investoinnit_ja_rahoitus.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/paasiaispupu.jpeg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/04/field_image_paasiaispupu.jpeg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2017-04-03_at_09.44.53.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/04/field_image_screen_shot_2017-04-03_at_09.44.53.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/maksuvalmius.jpeg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/05/field_image_maksuvalmius.jpeg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/kerro_kaverille_rahoittajasta.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2017/10/field_image_kerro_kaverille_rahoittajasta.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/screen_shot_2018-01-31_at_18.54.21.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2018/02/field_image_screen_shot_2018-01-31_at_18.54.21.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/faktoja-fazerin-suklaasta_450x450.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2018/02/field_image_faktoja-fazerin-suklaasta_450x450.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/paasiainen.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2018/03/field_image_paasiainen.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/gdpr_rahoittaja.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2018/04/field_image_gdpr_rahoittaja.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/rahoittaja-fb-ala_odottele_1.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2018/06/field_image_rahoittaja-fb-ala_odottele_1.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/tupas_luottamusverkosto_vahva_tunnistautuminen_-_rahoittaja.fi_.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2019/03/field_image_tupas_luottamusverkosto_vahva_tunnistautuminen_-_rahoittaja.fi_.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/gif_header_image_3-1.gif to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2019/03/field_image_gif_header_image_3-1.gif : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/field/image/laskurahoituksen_ajoitus.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2019/04/field_image_laskurahoituksen_ajoitus.jpg : Not Found
+84 articles imported
+Importing pages...
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/rahoittaja-fb-cover.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/02/rahoittaja-fb-cover.jpg : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/screen_shot_2016-02-15_at_17.44.27.png to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/02/screen_shot_2016-02-15_at_17.44.27.png : Not Found
+[ERROR] Can't copy https://rahoittaja.sillipilvi.fi/sites/default/files/rahoittaja-fb-cover_0.jpg to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/02/rahoittaja-fb-cover_0.jpg : Not Found
+26 pages imported
+4 medias imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2019-04-23 18:43:19 ===
+

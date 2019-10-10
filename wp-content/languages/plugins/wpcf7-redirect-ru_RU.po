@@ -1,0 +1,92 @@
+# Translation of Plugins - Contact Form 7 Redirection - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Contact Form 7 Redirection - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-28 02:27:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Contact Form 7 Redirection - Development (trunk)\n"
+
+#: wpcf7-redirect.php:262
+msgid "Error: Contact Form 7 version is too old. Contact Form Redirection is compatible from version 4.8 and above. Please update Contact Form 7."
+msgstr "Ошибка: версия Contact Form 7 слишком старая. Contact Form Redirection совместим с версией 4.8 или выше. Пожалуйста, обновите Contact Form 7."
+
+#: wpcf7-redirect.php:374
+msgid "Pass fields from the form as URL query parameters"
+msgstr "Передать поля из формы в качестве параметров URL-адреса"
+
+#: wpcf7-redirect.php:402
+msgid "Warning!"
+msgstr "Предупреждение!"
+
+#: wpcf7-redirect.php:404
+msgid "This option is for developers only - use with caution. If the plugin does not redirect after you have added scripts, it means you have a problem with your script. Either fix the script, or remove it."
+msgstr "Этот поле предназначено только для разработчиков - используйте с осторожностью. Если плагин не перенаправляет после добавления скриптов, значит у возникла проблема с вашим скриптом. Либо исправьте скрипт, либо удалите его."
+
+#: wpcf7-redirect.php:396
+msgid "Do not include <script> tags."
+msgstr "Не включайте теги <script>."
+
+#: wpcf7-redirect.php:393
+msgid "Here you can add scripts to run after form sent successfully."
+msgstr "Здесь вы можете добавить скрипты, которые выполнятся после успешной отправки формы."
+
+#. Author URI of the plugin/theme
+msgid "http://querysol.com"
+msgstr "http://querysol.com"
+
+#. Plugin URI of the plugin/theme
+msgid "http://querysol.com/blog/product/contact-form-7-redirection/"
+msgstr "http://querysol.com/blog/product/contact-form-7-redirection/"
+
+#. Plugin Name of the plugin/theme
+msgid "Contact Form 7 Redirection"
+msgstr "Contact Form 7 Redirection"
+
+#: wpcf7-redirect.php:380
+msgid "Open page in a new tab"
+msgstr "Открывать страницу в новой вкладке"
+
+#: wpcf7-redirect.php:383
+msgid "Notice!"
+msgstr "Обратите внимание!"
+
+#: wpcf7-redirect.php:385
+msgid "This option might not work as expected, since browsers often block popup windows. This option depends on the browser settings."
+msgstr "Этот параметр может работать не так, как ожидалось, поскольку браузеры часто блокируют всплывающие окна. Этот параметр зависит от настроек браузера."
+
+#. Author of the plugin/theme
+msgid "Query Solutions"
+msgstr "Query Solutions"
+
+#. Description of the plugin/theme
+msgid "Contact Form 7 Add-on - Redirect after mail sent."
+msgstr "Расширение для Contact Form 7 - Перенаправление после отправки письма."
+
+#: wpcf7-redirect.php:367
+msgid "Use external URL"
+msgstr "Использовать внешний URL"
+
+#: wpcf7-redirect.php:361
+msgid "External URL"
+msgstr "Внешний URL"
+
+#: wpcf7-redirect.php:343
+msgid "Select a page to redirect to on successful form submission."
+msgstr "Выберите страницу для перенаправления после успешной отправки формы."
+
+#: wpcf7-redirect.php:351
+msgid "Choose Page"
+msgstr "Выберите страницу"
+
+#: wpcf7-redirect.php:86 wpcf7-redirect.php:338
+msgid "Redirect Settings"
+msgstr "Настройки перенаправления"
+
+#: wpcf7-redirect.php:276
+msgid "Error: Please install and activate Contact Form 7."
+msgstr "Ошибка: пожалуйста, установите и активируйте плагин Contact Form 7."

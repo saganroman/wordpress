@@ -1,0 +1,91 @@
+/* ==========================================================================
+ # Gutenberg Editor (back-end)
+========================================================================== */
+
+/* Vendors
+----------------------------------------------- */
+
+@import "../../node_modules/breakpoint-sass/stylesheets/_breakpoint.scss";
+
+/* Variables
+----------------------------------------------- */
+
+@import "base/variables/width";
+@import "base/variables/spacing";
+@import "base/variables/breakpoints";
+@import "base/variables/colors";
+@import "base/variables/fonts";
+
+/* Mixins
+----------------------------------------------- */
+
+@import "base/mixins/buttons";
+@import "base/mixins/resets";
+@import "base/mixins/tools";
+@import "base/mixins/wrap";
+
+/* Generic
+----------------------------------------------- */
+
+@import "base/generic/normalize";
+@import "base/generic/all";
+
+/* Blocks
+----------------------------------------------- */
+
+@import "blocks/core/core-button";
+@import "blocks/core/core-columns";
+@import "blocks/core/core-embed";
+@import "blocks/core/core-file";
+@import "blocks/core/core-freeform";
+@import "blocks/core/core-gallery";
+@import "blocks/core/core-heading";
+@import "blocks/core/core-image";
+@import "blocks/core/core-list";
+@import "blocks/core/core-media-text";
+@import "blocks/core/core-paragraph";
+@import "blocks/core/core-quote";
+@import "blocks/core/core-separator";
+@import "blocks/core/core-table";
+
+@import "blocks/settings/blocks-alignment";
+@import "blocks/settings/blocks-colors";
+
+.edit-post-visual-editor .editor-block-list__block {
+  font-family: $font-text;
+  @import "base/generic/typography";
+}
+
+// hide font-size selection
+.components-panel__body.blocks-font-size .components-base-control:first-of-type {
+  display: none;
+}
+
+// editor title
+.editor-post-title__block .editor-post-title__input {
+  font-family: $font-title;
+  min-height: auto;
+  text-align: center;
+}
+
+// main column width
+:root body.gutenberg-editor-page .editor-post-title__block,
+:root body.gutenberg-editor-page .editor-default-block-appender,
+:root body.gutenberg-editor-page .editor-block-list__block {
+  max-width: calc(#{$max-width-m} + 2rem);
+}
+
+// width of "wide" blocks
+:root body.gutenberg-editor-page .editor-block-list__block[data-align="wide"] {
+  max-width: $max-width-l;
+}
+
+// width of "full-wide" blocks
+:root body.gutenberg-editor-page .editor-block-list__block[data-align="full"] {
+  max-width: none;
+}
+
+// for now we need this for overwriting Core line-height
+.editor-rich-text__tinymce.mce-content-body:not(.wp-block-cover-image-text):not(.wp-block-subhead):not(h2):not(h3) {
+  line-height: $line-height;
+}

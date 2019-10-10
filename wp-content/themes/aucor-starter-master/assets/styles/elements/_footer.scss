@@ -1,0 +1,15 @@
+/* ==========================================================================
+ # Footer
+========================================================================== */
+
+.site-footer {
+  background: $grey-light;
+  padding: 2rem 0;
+
+  &__container {
+    @include wrap;
+    display: flex;
+    justify-content: space-between;
+  }
+
+}

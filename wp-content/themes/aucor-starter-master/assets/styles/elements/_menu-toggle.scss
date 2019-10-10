@@ -1,0 +1,74 @@
+/* ==========================================================================
+ # Menu toggle
+========================================================================== */
+
+.menu-toggle {
+  @include button-reset;
+  @include transition;
+  background: transparent;
+  color: $primary;
+  cursor: pointer;
+  display: inline-block;
+  font-size: .875em;
+  padding: 0;
+  text-transform: uppercase;
+  @include breakpoint($menu-visible) {
+    display: none;
+  }
+  &:hover {
+    .menu-toggle__svg__line--1 {
+      transform: translateY(-.25em);
+    }
+    .menu-toggle__svg__line--3 {
+      transform: translateY(.25em);
+    }
+  }
+
+  &:focus {
+    outline: thin dotted;
+    outline-offset: -2px;
+  }
+
+  &__svg {
+    &.icon {
+      position: relative;
+      height: 2rem;
+      width: 2rem;
+      top: 0;
+    }
+
+    &__line {
+      @include transition;
+      opacity: 1;
+    }
+
+    &__close-line {
+      @include transition;
+      left: 0;
+      top: 0;
+      opacity: 0;
+      position: absolute;
+      transform: scale(1.2);
+    }
+
+  }
+
+  &--active {
+    .menu-toggle__svg__close-line {
+      opacity: 1;
+      transform-origin: 50% 50%;
+      &--1 {
+        transform: scale(1) rotate(45deg);
+      }
+      &--2 {
+        transform: scale(1) rotate(-45deg);
+      }
+    }
+    .menu-toggle__svg__line {
+      opacity: 0;
+      transform: scale(.8);
+    }
+  }
+
+}
+

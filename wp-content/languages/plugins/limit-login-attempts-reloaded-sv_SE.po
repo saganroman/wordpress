@@ -1,0 +1,273 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-04 09:54:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: core/LimitLoginAttempts.php:1013
+msgid "You can also try <a href=\"%s\">resetting your password</a> and that should help you to log in."
+msgstr "Du kan även försöka att <a href=\"%s\">återställa ditt lösenord</a>, det kan hjälpa dig att logga in."
+
+#: views/options-page.php:135
+msgid "after"
+msgstr "efter"
+
+#: views/options-page.php:132
+msgid "Email to"
+msgstr "E-post till"
+
+#: core/LimitLoginAttempts.php:1329
+msgid "The \""
+msgstr "IP-omfånget ”"
+
+#: core/LimitLoginAttempts.php:1082
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>FEL</strong>: Felaktig e-postadress eller lösenord."
+
+#. Author URI of the plugin
+msgid "https://wpchef.org"
+msgstr "https://wpchef.org"
+
+#. Author of the plugin
+msgid "WPChef"
+msgstr "WPChef"
+
+#: views/options-page.php:99
+msgid "this makes the plugin <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a> compliant"
+msgstr "detta gör att tillägget följer <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a>"
+
+#: views/options-page.php:96
+msgid "GDPR compliance"
+msgstr "GDPR-kompatibelt"
+
+#: views/options-page.php:171
+msgid "Save Options"
+msgstr "Spara inställningar"
+
+#: views/options-page.php:146 views/options-page.php:160
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Ett IP eller IP-omfång (1.2.3.4-5.6.7.8) per rad"
+
+#: core/LimitLoginAttempts.php:1360
+msgid "Options saved."
+msgstr "Inställningar sparade."
+
+#. Description of the plugin
+msgid "Limit the rate of login attempts, including by way of cookies and for each IP address."
+msgstr "Begränsa inloggningsförsök, inklusive genom cookies och för varje IP-adress."
+
+#. Plugin Name of the plugin
+msgid "Limit Login Attempts Reloaded"
+msgstr "Limit Login Attempts Reloaded"
+
+#: views/options-page.php:198
+msgid "Gateway"
+msgstr "Gateway"
+
+#: views/options-page.php:197
+msgid "Tried to log in as"
+msgstr "Försökte logga in som"
+
+#: views/options-page.php:196
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#: views/options-page.php:195
+msgid "Date"
+msgstr "Datum"
+
+#: views/options-page.php:187
+msgid "Clear Log"
+msgstr "Rensa logg"
+
+#: views/options-page.php:157
+msgid "Blacklist"
+msgstr "Svartlista"
+
+#: views/options-page.php:150 views/options-page.php:164
+msgid "One Username per line"
+msgstr "Ett användarnamn per rad"
+
+#: views/options-page.php:143
+msgid "Whitelist"
+msgstr "Vitlista"
+
+#: views/options-page.php:138
+msgid "lockouts"
+msgstr "blockeringar"
+
+#: views/options-page.php:130 views/options-page.php:182
+msgid "Lockout log"
+msgstr "Blockeringslogg"
+
+#: views/options-page.php:127
+msgid "Notify on lockout"
+msgstr "Notifiera om blockering"
+
+#: views/options-page.php:122
+msgid "hours until retries are reset"
+msgstr "timmar tills omförsök återställs"
+
+#: views/options-page.php:119
+msgid "hours"
+msgstr "timmar"
+
+#: views/options-page.php:116
+msgid "lockouts increase lockout time to"
+msgstr "blockeringar ökar blockeringstiden till"
+
+#: views/options-page.php:112
+msgid "minutes lockout"
+msgstr "minuters blockering"
+
+#: views/options-page.php:108
+msgid "allowed retries"
+msgstr "tillåtna omförsök"
+
+#: views/options-page.php:103
+msgid "Lockout"
+msgstr "Blockering"
+
+#: views/options-page.php:75
+msgid "Use global settings"
+msgstr "Använd globala inställningar"
+
+#: views/options-page.php:73
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "Om inaktiverad kommer de globala inställningarna tillämpas på hela nätverket."
+
+#: views/options-page.php:72
+msgid "Let network sites use their own settings"
+msgstr "Låt andra nätverkswebbplatser använda sina egna inställningar"
+
+#: views/options-page.php:68
+msgid "Options"
+msgstr "Alternativ"
+
+#: views/options-page.php:62
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP blockeras för närvarande från att loggas in"
+
+#: views/options-page.php:60
+msgid "Restore Lockouts"
+msgstr "Återställ blockeringar"
+
+#: views/options-page.php:57
+msgid "Active lockouts"
+msgstr "Aktiva blockeringar"
+
+#: views/options-page.php:50
+msgid "No lockouts yet"
+msgstr "Inga blockeringar ännu"
+
+#: views/options-page.php:48
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "%d blockering sedan senaste återställningen"
+msgstr[1] "%d blockeringar sedan senaste återställningen"
+
+#: views/options-page.php:46
+msgid "Reset Counter"
+msgstr "Nollställ räknare"
+
+#: views/options-page.php:42
+msgid "Total lockouts"
+msgstr "Antal blockeringar"
+
+#: views/options-page.php:37
+msgid "Statistics"
+msgstr "Statistik"
+
+#: views/options-page.php:36
+msgid "Limit Login Attempts Settings"
+msgstr "Limit Login Attempts inställningar"
+
+#: core/LimitLoginAttempts.php:1286
+msgid "Cleared current lockouts"
+msgstr "Rensade aktuella blockeringar"
+
+#: core/LimitLoginAttempts.php:1279
+msgid "Reset lockout count"
+msgstr "Nollställ räknaren för blockeringar"
+
+#: core/LimitLoginAttempts.php:1272
+msgid "Cleared IP log"
+msgstr "Rensade IP-loggen"
+
+#: core/LimitLoginAttempts.php:1108
+msgid "WC Error"
+msgstr "WC-fel"
+
+#: core/LimitLoginAttempts.php:1084
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>Fel</strong>: Felaktigt användarnamn eller lösenord."
+
+#: core/LimitLoginAttempts.php:1010
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Vänligen försök igen om %d minut."
+msgstr[1] "Vänligen försök igen om %d minuter."
+
+#: core/LimitLoginAttempts.php:1008
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Vänligen försök igen om %d timme."
+msgstr[1] "Vänligen försök igen om %d timmar."
+
+#: core/LimitLoginAttempts.php:1000
+msgid "Please try again later."
+msgstr "Vänligen försök igen senare."
+
+#: core/LimitLoginAttempts.php:992
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>FEL</strong>: För många misslyckade inloggningsförsök."
+
+#: core/LimitLoginAttempts.php:774
+msgid "IP was blocked for %s"
+msgstr "IP har blockerats i %s"
+
+#: core/LimitLoginAttempts.php:772
+msgid "IP was NOT blocked because of external whitelist."
+msgstr "IP blockerades INTE på grund av extern vitlista."
+
+#: core/LimitLoginAttempts.php:768
+msgid "Last user attempted: %s"
+msgstr "Senaste användarförsöket: %s"
+
+#: core/LimitLoginAttempts.php:764
+msgid "%d failed login attempts (%d lockout(s)) from IP: %s"
+msgstr "%d misslyckade inloggningsförsök (blockerad %d gång(er)) från IP: %s"
+
+#: core/LimitLoginAttempts.php:759
+msgid "[%s] Too many failed login attempts"
+msgstr "[%s] För många misslyckade inloggningsförsök"
+
+#: core/LimitLoginAttempts.php:755
+msgid "[%s] Failed login attempts from whitelisted IP"
+msgstr "[%s] Misslyckade inloggningsförsök från vitlistade IP"
+
+#: core/LimitLoginAttempts.php:748
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minut"
+msgstr[1] "%d minuter"
+
+#: core/LimitLoginAttempts.php:742
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d timme"
+msgstr[1] "%d timmar"
+
+#: core/LimitLoginAttempts.php:365 core/LimitLoginAttempts.php:1167
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "<strong>%d</strong> försök återstår."
+msgstr[1] "<strong>%d</strong> försök återstår."

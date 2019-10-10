@@ -1,0 +1,62 @@
+/* ==========================================================================
+ # Teaser
+========================================================================== */
+
+.teaser-container {
+  @include narrow-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.teaser {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: $gap;
+
+  &__thumbnail {
+    flex-shrink: 0;
+    margin-right: $gap;
+    max-width: 4rem;
+    @include breakpoint($s) {
+      max-width: none;
+    }
+    a, img {
+      display: block;
+      line-height: 0;
+    }
+  }
+
+  &__content {
+    flex-grow: 1;
+  }
+
+  &__header {
+    margin-bottom: .75rem;
+    &__title {
+      font-size: 1.25rem;
+      margin: 0;
+      a {
+        text-decoration: none;
+        color: $base-font-color;
+      }
+    }
+    &__date {
+      display: block;
+      font-size: .875rem;
+    }
+
+  }
+
+  &__summary {
+    @include child-margin-reset;
+    p {
+      font-size: .875rem;
+    }
+  }
+
+}
+
+
+
+
+

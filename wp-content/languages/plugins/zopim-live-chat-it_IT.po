@@ -1,0 +1,152 @@
+# Translation of Plugins - Zendesk Chat - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Zendesk Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-10 19:52:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Zendesk Chat - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Zopim"
+msgstr "Zopim"
+
+#. Description of the plugin/theme
+msgid "Zopim is an award winning chat solution that helps website owners to engage their visitors and convert customers into fans!"
+msgstr "Zopim is an award winning chat solution that helps website owners to engage their visitors and convert customers into fans!"
+
+#. #-#-#-#-#  tmp-zopim-live-chat.pot (Zopim Widget 1.4.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-zopim-live-chat.pot (Zopim Widget 1.4.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.zopim.com/?iref=wp_plugin"
+msgstr "http://www.zopim.com/?iref=wp_plugin"
+
+#. Plugin Name of the plugin/theme
+msgid "Zopim Widget"
+msgstr "Zopim Widget"
+
+#: includes/class-login.php:7
+msgid "Could not log in to Zopim. We were unable to contact Zopim servers. Please check with your server administrator to ensure that <a href=\"http://www.php.net/manual/en/book.curl.php\">PHP Curl</a> is installed and permissions are set correctly"
+msgstr "Non riesco a collegarmi a Zopim. Impossibile collegarsi al server Zopim. Controlla la connessione e che <a href=\"http://www.php.net/manual/en/book.curl.php\">PHP Curl</a> sia installato e che i permessi siano corretti."
+
+#: includes/class-linked-view.php:10
+msgid " Plan"
+msgstr "Piano"
+
+#: includes/class-linked-view.php:9
+msgid "Trial Plan with 14 Days Full-features"
+msgstr "Prova il piano completo per 14 giorni"
+
+#: includes/class-admin.php:39
+msgid "Zopim Chat"
+msgstr "Zopim Chat"
+
+#: includes/class-admin.php:39
+msgid "Account Configuration"
+msgstr "Configurazione account"
+
+#: accountconfig.php:192 includes/class-login.php:18
+msgid "Sign up now"
+msgstr "Registrati ora"
+
+#: accountconfig.php:190 includes/views/login-form.php:43
+msgid "Don't have a Zopim account?"
+msgstr "Non hai un account Zopim?"
+
+#: accountconfig.php:189 includes/class-login.php:17
+msgid "Link Up"
+msgstr "Connettiti"
+
+#: accountconfig.php:184 includes/class-login.php:15
+msgid "The Zopim chat widget will display on your blog after your account is linked up."
+msgstr "La chat Zopim apparirà nel tuo blog dopo che il tuo account sarà attivato e connesso."
+
+#: accountconfig.php:178 includes/class-login.php:14
+msgid "Zopim Password"
+msgstr "Zopim Password"
+
+#: accountconfig.php:172 includes/class-login.php:13
+msgid "Zopim Username (E-mail)"
+msgstr "Zopim Username (E-mail)"
+
+#: accountconfig.php:161 includes/class-login.php:12
+msgid "Link up with your Zopim account"
+msgstr "Connetti il tuo Zopim account"
+
+#: accountconfig.php:153 includes/class-login.php:10
+msgid "Congratulations on successfully installing the Zopim WordPress plugin!"
+msgstr "Congratulazioni! Installazione di Zopim WordPress plugin completata!"
+
+#: accountconfig.php:137 includes/class-linked-view.php:16
+msgid "Optional code for customization with Zopim API:"
+msgstr "Codice API opzionale per personalizzare Zopim:"
+
+#: accountconfig.php:132 includes/class-linked-view.php:8
+msgid "Widget options updated."
+msgstr "Opzioni aggiornate."
+
+#: accountconfig.php:124 includes/class-linked-view.php:15
+msgid "This will open up a new browser tab"
+msgstr "Questo aprirà una nuova finestra nel browser"
+
+#: accountconfig.php:123 includes/class-linked-view.php:14
+msgid "Launch Dashboard"
+msgstr "Apri il dashboard (pannello di controllo)"
+
+#: accountconfig.php:119 includes/class-linked-view.php:13
+msgid "To start using Zopim chat, launch our dashboard for access to all features, including widget customization!"
+msgstr "Per iniziare ad usare Zopim chat, apri il dashbord (pannello di controllo) e accedi a tutte le funzioni e personalizzazioni!"
+
+#: accountconfig.php:114 includes/class-linked-view.php:12
+msgid "Currently Activated Account"
+msgstr "Account già attivato"
+
+#: accountconfig.php:111 includes/class-linked-view.php:11
+msgid "Deactivate"
+msgstr "Disattiva"
+
+#: accountconfig.php:107 accountconfig.php:148
+#: includes/class-linked-view.php:17 includes/class-login.php:9
+msgid "Set up your Zopim Account"
+msgstr "Set up Zopim Account"
+
+#: accountconfig.php:102
+msgid " Package"
+msgstr "Pacchetto"
+
+#: accountconfig.php:100
+msgid "Free Lite Package + 14 Days Full-features"
+msgstr "Pacchetto Free Lite + 14 giorni di versione completa"
+
+#: accountconfig.php:88 includes/class-admin.php:89
+msgid "We could not verify your Zopim account. Please check your password and try again."
+msgstr "Account Zopim non verificato o corretto. Controlla la tua password e riprova."
+
+#: accountconfig.php:86 includes/class-admin.php:87
+msgid "Account no longer linked!"
+msgstr "Account non collegato!"
+
+#: accountconfig.php:73
+msgid "Could not activate account. The wordpress installation was unable to contact Zopim servers. Please check with your server administrator to ensure that <a href='http://www.php.net/manual/en/book.curl.php'>PHP Curl</a> is installed and permissions are set correctly."
+msgstr "Non riesco ad attivare il tuo account. Wordpress non è in grado di connettersi ai server Zopim. Controlla che <a href='http://www.php.net/manual/en/book.curl.php'>PHP Curl</a> sia installato e configurato correttamente."
+
+#: accountconfig.php:69
+msgid "Thank you for signing up. Please check your mail for your password to complete the process."
+msgstr "Grazie per esserti registrato. Controlla la tua posta per la password e per completare la registrazione."
+
+#: accountconfig.php:66
+msgid "Error during activation: <b>%s</b>. Please try again.</div>"
+msgstr "Errore di attivazione: <b>%s</b>. Prova ancora.</div>"
+
+#: accountconfig.php:42
+msgid "Could not log in to Zopim. We were unable to contact Zopim servers. Please check with your server administrator to ensure that <a href='http://www.php.net/manual/en/book.curl.php'>PHP Curl</a> is installed and permissions are set correctly"
+msgstr "Login fallito. Il server Zopim non è raggiungibile. Controlla i dati di amministratore e verifica che <a href='http://www.php.net/manual/en/book.curl.php'>PHP Curl</a> sia installato e che i premessi siano corretti."
+
+#: accountconfig.php:22 accountconfig.php:48 includes/class-login.php:6
+msgid "Could not log in to Zopim. Please check your login details."
+msgstr "Accesso negato. Controlla i tuoi dati di login."

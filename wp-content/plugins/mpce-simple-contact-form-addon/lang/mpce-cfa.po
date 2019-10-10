@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MotoPress Simple Contact Forn\n"
+"POT-Creation-Date: 2016-02-16 16:52+0200\n"
+"PO-Revision-Date: 2016-02-16 16:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: build\n"
+"X-Poedit-SearchPathExcluded-1: assets/js/minified\n"
+
+#: inc/license.php:11 inc/settingsPage.php:18
+msgid "Settings saved."
+msgstr ""
+
+#: inc/license.php:21
+msgid "Simple Contact Form Addon License"
+msgstr ""
+
+#: inc/license.php:22
+msgid ""
+"The License Key is required in order to get automatic plugin updates and "
+"support. You can manage your License Key in your personal account. <a "
+"href='https://motopress.zendesk.com/hc/en-us/articles/202812996-How-to-use-"
+"your-personal-MotoPress-account' target='blank'>Learn more</a>."
+msgstr ""
+
+#: inc/license.php:30
+msgid "License Key"
+msgstr ""
+
+#: inc/license.php:43
+msgid "Status"
+msgstr ""
+
+#: inc/license.php:51
+msgid "Inactive"
+msgstr ""
+
+#: inc/license.php:57
+msgid "Valid until"
+msgstr ""
+
+#: inc/license.php:59
+msgid "Valid"
+msgstr ""
+
+#: inc/license.php:63
+msgid "Disabled"
+msgstr ""
+
+#: inc/license.php:69
+msgid "Invalid"
+msgstr ""
+
+#: inc/license.php:72
+msgid ""
+"Your License Key does not match the installed plugin. <a href='https://"
+"motopress.zendesk.com/hc/en-us/articles/202957243-What-to-do-if-the-license-"
+"key-doesn-t-correspond-with-the-plugin-license' target='_blank'>How to fix "
+"this.</a>"
+msgstr ""
+
+#: inc/license.php:82
+msgid "Action"
+msgstr ""
+
+#: inc/license.php:90
+msgid "Activate License"
+msgstr ""
+
+#: inc/license.php:95
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/license.php:100
+msgid "Renew License"
+msgstr ""
+
+#: inc/license.php:111 inc/settingsPage.php:26
+msgid "Save"
+msgstr ""
+
+#: inc/mail.php:87
+msgid "Function wp_mail returned false."
+msgstr ""
+
+#: inc/mail.php:156
+msgid "Please check the reCAPTCHA."
+msgstr ""
+
+#: inc/mail.php:179
+msgid "ReCAPTCHA Error"
+msgstr ""
+
+#: inc/mail.php:213
+msgid "Security error!"
+msgstr ""
+
+#: inc/mpLibrary.php:6
+msgid "Contact form"
+msgstr ""
+
+#: inc/mpLibrary.php:12 inc/mpLibrary.php:63 inc/mpLibrary.php:64
+#: inc/mpLibrary.php:79
+msgid "Label"
+msgstr ""
+
+#: inc/mpLibrary.php:17
+msgid "Add New Field"
+msgstr ""
+
+#: inc/mpLibrary.php:23
+msgid "Submit button label"
+msgstr ""
+
+#: inc/mpLibrary.php:24
+msgid "Submit"
+msgstr ""
+
+#: inc/mpLibrary.php:29
+msgid "Use reCAPTCHA"
+msgstr ""
+
+#: inc/mpLibrary.php:31
+msgid ""
+"Protect this form from spam and abuse. Configure Google reCAPTCHA in plugin "
+"settings first."
+msgstr ""
+
+#: inc/mpLibrary.php:36
+msgid "Alignment"
+msgstr ""
+
+#: inc/mpLibrary.php:39
+msgid "Default"
+msgstr ""
+
+#: inc/mpLibrary.php:40
+msgid "Left"
+msgstr ""
+
+#: inc/mpLibrary.php:41
+msgid "Right"
+msgstr ""
+
+#: inc/mpLibrary.php:46
+msgid "Form ID"
+msgstr ""
+
+#: inc/mpLibrary.php:47 inc/mpLibrary.php:156
+msgid "Is used in e-mail template"
+msgstr ""
+
+#: inc/mpLibrary.php:51
+msgid "Form name"
+msgstr ""
+
+#: inc/mpLibrary.php:52
+msgid "Contact Form"
+msgstr ""
+
+#: inc/mpLibrary.php:53
+msgid "Is used in e-mail subject"
+msgstr ""
+
+#: inc/mpLibrary.php:60
+msgid "Form Field"
+msgstr ""
+
+#: inc/mpLibrary.php:68
+msgid "Type"
+msgstr ""
+
+#: inc/mpLibrary.php:71
+msgid "Text"
+msgstr ""
+
+#: inc/mpLibrary.php:72
+msgid "E-mail"
+msgstr ""
+
+#: inc/mpLibrary.php:73
+msgid "Text area"
+msgstr ""
+
+#: inc/mpLibrary.php:74
+msgid "Select"
+msgstr ""
+
+#: inc/mpLibrary.php:75
+msgid "Telephone"
+msgstr ""
+
+#: inc/mpLibrary.php:76
+msgid "Checkboxes"
+msgstr ""
+
+#: inc/mpLibrary.php:77
+msgid "Radio buttons"
+msgstr ""
+
+#: inc/mpLibrary.php:78
+msgid "Number"
+msgstr ""
+
+#: inc/mpLibrary.php:85
+msgid "Use Label as the placeholder"
+msgstr ""
+
+#: inc/mpLibrary.php:96
+msgid "Required"
+msgstr ""
+
+#: inc/mpLibrary.php:106
+msgid "First option is selected"
+msgstr ""
+
+#: inc/mpLibrary.php:117
+msgid "Multiple options can be selected at once"
+msgstr ""
+
+#: inc/mpLibrary.php:127
+msgid "Use Label as the first option"
+msgstr ""
+
+#: inc/mpLibrary.php:130
+msgid "No"
+msgstr ""
+
+#: inc/mpLibrary.php:131
+msgid "Yes"
+msgstr ""
+
+#: inc/mpLibrary.php:141
+msgid "Options"
+msgstr ""
+
+#: inc/mpLibrary.php:143
+msgid "One option per line"
+msgstr ""
+
+#: inc/mpLibrary.php:144
+msgid "Edit"
+msgstr ""
+
+#: inc/mpLibrary.php:154
+msgid "Field name"
+msgstr ""
+
+#: inc/mpLibrary.php:155
+msgid "your-name"
+msgstr ""
+
+#: inc/mpLibrary.php:164
+msgid "CSS Class"
+msgstr ""
+
+#: inc/mpLibrary.php:170
+msgid "ID"
+msgstr ""
+
+#: inc/settingsPage.php:6
+msgid "Simple Contact Form"
+msgstr ""
+
+#: inc/settingsPage.php:32
+msgid "Simple Contact Form  Addon"
+msgstr ""
+
+#: inc/settingsPage.php:90
+msgid "To"
+msgstr ""
+
+#: inc/settingsPage.php:94
+msgid "From"
+msgstr ""
+
+#: inc/settingsPage.php:98
+msgid "Subject"
+msgstr ""
+
+#: inc/settingsPage.php:102
+msgid "Success message"
+msgstr ""
+
+#: inc/settingsPage.php:106
+msgid "Fail message"
+msgstr ""
+
+#: inc/settingsPage.php:110
+msgid "reCAPTCHA Site Key"
+msgstr ""
+
+#: inc/settingsPage.php:114
+msgid "reCAPTCHA Secret Key"
+msgstr ""
+
+#: inc/settingsPage.php:118
+msgid "reCAPTCHA Language"
+msgstr ""
+
+#: inc/settingsPage.php:123
+msgid "E-mail templates"
+msgstr ""
+
+#: inc/settingsPage.php:135
+msgid ""
+"To use reCAPTCHA, you need to <a href=\"http://www.google.com/recaptcha/admin"
+"\" target=\"_blank\">sign up for an API key pair</a> for your site."
+msgstr ""
+
+#: inc/settingsPage.php:141
+msgid ""
+"Read more about google <a href=\"https://developers.google.com/recaptcha/"
+"docs/language\" target=\"_blank\">language codes</a>"
+msgstr ""
+
+#: inc/settingsPage.php:159
+msgid "Use [form-name] and [blog-name] to generate dynamic subject"
+msgstr ""
+
+#: inc/settingsPage.php:164
+msgid "Sender's message was sent successfully"
+msgstr ""
+
+#: inc/settingsPage.php:169
+msgid "Sender's message was failed to send"
+msgstr ""
+
+#: inc/settingsPage.php:182
+msgid "E-mail template"
+msgstr ""
+
+#: inc/settingsPage.php:183
+msgid "Form ID:"
+msgstr ""
+
+#: inc/settingsPage.php:184
+msgid "Remove"
+msgstr ""
+
+#: inc/settingsPage.php:216
+msgid "Add Template"
+msgstr ""
+
+#: inc/settingsPage.php:217
+msgid "Only numbers, letters, underscores and hyphens are permitted."
+msgstr ""
+
+#: inc/settingsPage.php:220
+msgid "Error: Only numbers, letters, underscores and hyphens are permitted"
+msgstr ""
+
+#: inc/settingsPage.php:221
+msgid "Error: Template with this ID already exists"
+msgstr ""
+
+#: inc/settingsPage.php:224
+msgid "Add new e-mail template. Enter contact form ID:"
+msgstr ""
+
+#: inc/settingsPage.php:237
+msgid ""
+"You can use [field-names] from your form in this template. All [field-names] "
+"will be replaced with a corresponding field values. Example: Message from "
+"[user-name]"
+msgstr ""
+
+#: modules/cfa_captcha.php:23
+msgid "Please verify that you are not a robot."
+msgstr ""

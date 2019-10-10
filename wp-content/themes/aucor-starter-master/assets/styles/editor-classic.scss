@@ -1,0 +1,26 @@
+/* ==========================================================================
+ # Classic Editor (back-end)
+========================================================================== */
+
+/* Base from main
+----------------------------------------------- */
+
+@import "main";
+
+
+/* Custom TinyMCE styles
+----------------------------------------------- */
+
+html, body {
+  background: $white;
+}
+
+body {
+  width: 95%;
+  max-width: 640px; // Content width
+  margin: 1.5rem auto;
+}
+
+.wp-caption-dd {
+  @extend .wp-caption-text !optional;
+}

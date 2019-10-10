@@ -1,0 +1,112 @@
+# Translation of Plugins - WP Fastest Cache - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - WP Fastest Cache - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-25 11:05:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - WP Fastest Cache - Stable (latest release)\n"
+
+#: wpFastestCache.php:1512
+msgid "Once Every 3 Days"
+msgstr "Her 3 günde bir"
+
+#. Author of the plugin
+msgid "Emre Vona"
+msgstr "Emre Vona"
+
+#. Author URI of the plugin
+msgid "http://tr.linkedin.com/in/emrevona"
+msgstr "http://tr.linkedin.com/in/emrevona"
+
+#: wpFastestCache.php:1536
+msgid "Once a Year"
+msgstr "Yılda Bir Kez"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/wp-fastest-cache/"
+msgstr "http://wordpress.org/plugins/wp-fastest-cache/"
+
+#: wpFastestCache.php:1530
+msgid "Once a Month"
+msgstr "Ayda Bir Kez"
+
+#: wpFastestCache.php:1518
+msgid "Once a Week"
+msgstr "Haftada Bir Kere"
+
+#: wpFastestCache.php:1446
+msgid "Once an Hour"
+msgstr "Saatte Bir Kere"
+
+#: wpFastestCache.php:1476
+msgid "Once Every 6 Hours"
+msgstr "6 Saatte Bir"
+
+#: wpFastestCache.php:1506
+msgid "Once a Day"
+msgstr "Günde Bir Kere"
+
+#: wpFastestCache.php:1428
+msgid "Once Every 5 Minutes"
+msgstr "Her 5 Dakikada Bir"
+
+#: wpFastestCache.php:1434
+msgid "Once Every 15 Minutes"
+msgstr "Her 15 Dakikada Bir"
+
+#: wpFastestCache.php:1440
+msgid "Twice an Hour"
+msgstr "Saatte 2 Kere"
+
+#. Description of the plugin
+msgid "The simplest and fastest WP Cache system"
+msgstr "En basit ve en hızlı WP cache sistemi"
+
+#: wpFastestCache.php:1422
+msgid "Once Every 1 Minute"
+msgstr "Her Dakika"
+
+#. Plugin Name of the plugin
+msgid "WP Fastest Cache"
+msgstr "WP Fastest Cache (Türkçe)"
+
+#: wpFastestCache.php:1524
+msgid "Once Every 10 Days"
+msgstr "Her 10 günde bir"
+
+#: wpFastestCache.php:1500
+msgid "Once Every 10 Hours"
+msgstr "Her 10 saatte bir"
+
+#: wpFastestCache.php:1494
+msgid "Once Every 9 Hours"
+msgstr "Her 9 saatte bir"
+
+#: wpFastestCache.php:1488
+msgid "Once Every 8 Hours"
+msgstr "Her 8 saatte bir"
+
+#: wpFastestCache.php:1482
+msgid "Once Every 7 Hours"
+msgstr "Her 7 saatte bir"
+
+#: wpFastestCache.php:1470
+msgid "Once Every 5 Hours"
+msgstr "Her 5 saatte bir"
+
+#: wpFastestCache.php:1464
+msgid "Once Every 4 Hours"
+msgstr "Her 4 saatte bir"
+
+#: wpFastestCache.php:1458
+msgid "Once Every 3 Hours"
+msgstr "Her 3 saatte bir"
+
+#: wpFastestCache.php:1452
+msgid "Once Every 2 Hours"
+msgstr "Her 2 saatte bir"

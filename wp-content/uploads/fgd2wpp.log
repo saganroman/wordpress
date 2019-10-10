@@ -1,0 +1,62 @@
+=== START import 2019-04-23 21:05:59 ===
+Connected with success to the Drupal database
+Drupal data found:
+84 articles
+26 pages
+0 categories
+32 tags
+1257 users
+0 comments
+7 Banner
+2 Collage page
+1 Footer
+11 Invoice
+1 Webform
+
+[WARNING] Your Drupal database contains meta tags. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/metatag/" target="_blank">Metatag add-on</a> to import them.
+[WARNING] Your Drupal database contains translations. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/internationalization/" target="_blank">Internationalization add-on</a> to import them.
+[WARNING] Your Drupal database contains Entity Reference relationships. You need the <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/entityreference/" target="_blank">Entity Reference add-on</a> to import them.
+[WARNING] The <a href="https://wp-types.com/home/types-manage-post-types-taxonomy-and-custom-fields/?aid=45636&affiliate_key=k1v2vvL3JGBm" target="_blank">Types plugin</a> is required to manage the custom post types, the custom taxonomies and the custom fields.
+Users deleted
+WordPress content removed
+Banner post type registered
+Collage page post type registered
+Footer post type registered
+Invoice post type registered
+Webform post type registered
+Importing authors...
+Authors imported
+Importing categories...
+0 categories imported
+Importing tags...
+32 tags imported
+Importing articles...
+[ERROR] Can't copy http://www.etk.fi/wp-content/uploads/2015/10/selvitys_02_2014.pdf to /var/www/vhosts/sillipilvi.fi/drupal.sillipilvi.fi/wp-content/uploads/2016/11/www.etk_.fi_wp-content_uploads_2015_10_selvitys_02_2014.pdf : Moved Permanently
+84 articles imported
+Importing pages...
+26 pages imported
+Importing users...
+1257 users imported
+Importing banners...
+7 Banner imported
+Importing collage_pages...
+2 Collage page imported
+Importing footers...
+1 Footer imported
+Importing invoices...
+11 Invoice imported
+Importing webforms...
+1 Webform imported
+Importing redirects...
+152 redirects imported
+Setting parent pages...
+1 parent page set
+Importing comments...
+0 comments imported
+Importing menus...
+2 menu items imported
+145 medias imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2019-04-23 21:09:49 ===
+

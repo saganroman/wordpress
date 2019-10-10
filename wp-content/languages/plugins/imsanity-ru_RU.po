@@ -1,0 +1,263 @@
+# Translation of Plugins - Imsanity - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Imsanity - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-04 18:33:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Imsanity - Stable (latest release)\n"
+
+#: settings.php:561
+msgid "Scanning existing images. This may take a moment."
+msgstr "Сканирование существующих изображений. Это может занять некоторое время."
+
+#: settings.php:552
+msgid "It is also recommended that you initially select only 1 or 2 images and verify that everything is working properly before processing your entire library."
+msgstr "Также, рекомендуется сначала выбрать только 1 или 2 изображения и убедиться, что все работает правильно, прежде чем обрабатывать всю вашу библиотеку."
+
+#: settings.php:551
+msgid "It is HIGHLY recommended that you backup your wp-content/uploads folder before proceeding. You will have a chance to preview and select the images to convert."
+msgstr "НАСТОЯТЕЛЬНО рекомендуется сделать резервную копию своей папки wp-content/uploads перед продолжением. У вас будет возможность просмотреть и выбрать изображения для преобразования."
+
+#: settings.php:549
+msgid "WARNING: Bulk Resize will alter your original images and cannot be undone!"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: Массовое изменение размера изменяет исходные изображения и не может быть отменено!"
+
+#: settings.php:545
+msgid "NOTE: To give you greater control over the resizing process, a maximum of %d images will be returned at one time. Bitmap images cannot be bulk resized and will not appear in the search results."
+msgstr "ПРИМЕЧАНИЕ: Для большего контроля над процессом изменения размера, за один раз будет показано не более %d изображений. Изменение размеров изображений в формате bmp не поддерживается и они не будут показы в списке."
+
+#: settings.php:544
+msgid "If you have existing images that were uploaded prior to installing Imsanity, you may resize them all in bulk to recover disk space. To begin, click the \"Search Images\" button to search all existing attachments for images that are larger than the configured limit."
+msgstr "Если у вас есть изображения, которые были загружены до установки Imsanity, вы можете изменить их размер для освобождения дискового пространства. Нажмите кнопку «Поиск изображений», чтобы начать. Будут найдены все существующие вложения изображений, размер которых превышает установленный лимит."
+
+#: settings.php:256 settings.php:264 settings.php:272 settings.php:600
+#: settings.php:608 settings.php:616
+msgid "in pixels, enter 0 to disable"
+msgstr "в пикселях, введите 0 для отключения"
+
+#: settings.php:256 settings.php:264 settings.php:272 settings.php:600
+#: settings.php:608 settings.php:616
+msgid "Max Height"
+msgstr "Максимальная высота"
+
+#: settings.php:255 settings.php:263 settings.php:271 settings.php:599
+#: settings.php:607 settings.php:615
+msgid "Max Width"
+msgstr "Максимальная ширина"
+
+#: settings.php:71
+msgid "There are no images that need to be resized."
+msgstr "Нет изображений, которым необходимо изменить размер."
+
+#: settings.php:70
+msgid "Received an invalid response, please check for errors in the Developer Tools console of your browser."
+msgstr "Получен неверный ответ, пожалуйста, проверьте наличие ошибок в консоли Инструментов разработчика вашего браузера."
+
+#: settings.php:69
+msgid "Image"
+msgstr "Изображение"
+
+#: settings.php:68
+msgid "Resize Selected Images"
+msgstr "Изменить размер выбранных изображений"
+
+#: settings.php:67
+msgid "Resizing Complete"
+msgstr "Изменение размера завершено"
+
+#: settings.php:54
+msgid "Settings"
+msgstr "Настройки"
+
+#: imsanity.php:261
+msgid "Imsanity was unable to process the %s file. If you continue to see this error you may need to disable the conversion option in the Imsanity settings."
+msgstr "Imsanity не смог обработать файл %s. Если ошибка повторяется, попробуйте отключить опции преобразования в настройках Imsanity."
+
+#: imsanity.php:237
+msgid "Unknown image type specified in imsanity_convert_to_jpg"
+msgstr "В imsanity_convert_to_jpg указан неизвестный тип изображения"
+
+#: imsanity.php:226
+msgid "Imsanity requires the GD library to convert PNG images to JPG"
+msgstr "Для преобразования изображений из PNG в JPG, необходима библиотека GD."
+
+#: imsanity.php:197
+msgid "Imsanity was unable to resize this image for the following reason: %s. If you continue to see this error message, you may need to install missing server components. If you think you have discovered a bug, please report it on the Imsanity support forum: %s"
+msgstr "Imsanity не удалось изменить размер изображения по следующей причине: %s. Если ошибка повторяется, возможно, вам нужно установить отсутствующие компоненты сервера. Если вы считаете, что обнаружили ошибку, сообщите об этом на форуме поддержки Insanity: %s"
+
+#: ajax.php:138
+msgid "Unknown error, resizing function returned the same filename"
+msgstr "Неизвестная ошибка, функция изменения размера возвратила то же самое имя файла"
+
+#: ajax.php:136
+msgid "Resized image was larger than the original"
+msgstr "Преобразованное изображение было больше оригинала"
+
+#: ajax.php:89
+msgid "%s is not writable"
+msgstr "%s недоступен для записи"
+
+#: ajax.php:21
+msgid "Access token has expired, please reload the page."
+msgstr "Срок действия токена доступа истек, пожалуйста, перезагрузите страницу."
+
+#: ajax.php:18
+msgid "Administrator permission is required"
+msgstr "Необходимы права администратора"
+
+#. Author URI of the plugin/theme
+msgid "https://ewww.io/"
+msgstr "https://ewww.io/"
+
+#. Author of the plugin/theme
+msgid "Shane Bishop"
+msgstr "Shane Bishop"
+
+#. Description of the plugin/theme
+msgid "Imsanity stops insanely huge image uploads"
+msgstr "Imsanity предотвращает загрузку безумно больших изображений"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/imsanity/"
+msgstr "https://ru.wordpress.org/plugins/imsanity/"
+
+#. Plugin Name of the plugin/theme
+msgid "Imsanity"
+msgstr "Imsanity"
+
+#: settings.php:645
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: settings.php:636
+msgid "Convert PNG To JPG"
+msgstr "Преобразовать PNG в JPG"
+
+#: settings.php:628
+msgid "Convert BMP To JPG"
+msgstr "Преобразовать  BMP в JPG"
+
+#: settings.php:579
+msgid "Imsanity settings have been configured by the server administrator. There are no site-specific settings available."
+msgstr "Параметры Imsanity настроены администратором сервера. Нет доступных специфических для сайта настроек."
+
+#: settings.php:556
+msgid "Search Images..."
+msgstr "Поиск изображений..."
+
+#: settings.php:541
+msgid "Bulk Resize Images"
+msgstr "Массовое изменение размера изображений"
+
+#: settings.php:523
+msgid "Imsanity Settings"
+msgstr "Настройки Imsanity "
+
+#: settings.php:300
+msgid "Update Settings"
+msgstr "Настройки обновления"
+
+#: settings.php:295 settings.php:624
+msgid "WordPress default is 82"
+msgstr "По умолчанию в WordPress — 82"
+
+#: settings.php:294 settings.php:623
+msgid "Valid values are 1-100."
+msgstr "Допустимые значения: 1-100."
+
+#: settings.php:293 settings.php:622
+msgid "JPG image quality"
+msgstr "Качество изображения JPG "
+
+#: settings.php:285
+msgid "Convert PNG to JPG"
+msgstr "Преобразовать PNG в JPG"
+
+#: settings.php:280 settings.php:288 settings.php:631 settings.php:639
+msgid "No"
+msgstr "Нет"
+
+#: settings.php:279 settings.php:287 settings.php:630 settings.php:638
+msgid "Yes"
+msgstr "Да"
+
+#: settings.php:277
+msgid "Convert BMP to JPG"
+msgstr "Преобразовать BMP в  JPG"
+
+#: settings.php:269 settings.php:613
+msgid "Images uploaded elsewhere (Theme headers, backgrounds, logos, etc)"
+msgstr "Изображения загружены в другое место (заголовки тем, фон, логотипы и т.д.)"
+
+#: settings.php:261 settings.php:605
+msgid "Images uploaded directly to the Media Library"
+msgstr "Изображения загружены непосредственно в библиотеку мультимедиа"
+
+#: settings.php:253 settings.php:597
+msgid "Images uploaded within a Page/Post"
+msgstr "Изображения загружены на страницы/записи"
+
+#: settings.php:247
+msgid "Use global Imsanity settings (below) for all sites"
+msgstr "Использовать глобальные параметры Imsanity (ниже) для всех сайтов"
+
+#: settings.php:246
+msgid "Allow each site to configure Imsanity settings"
+msgstr "Разрешить каждому сайту настраивать параметры Imsanity"
+
+#: settings.php:243
+msgid "Global Settings Override"
+msgstr "Переопределение глобальных настроек "
+
+#: settings.php:350
+msgid "Imsanity network settings saved."
+msgstr "Настройки сети Imsanity сохранены."
+
+#: settings.php:44 settings.php:222
+msgid "Imsanity Network Settings"
+msgstr "Настройки сети Imsanity "
+
+#: settings.php:32
+msgid "Imsanity Plugin Settings"
+msgstr "Настройки плагина Imsanity "
+
+#: libs/imagecreatefrombmp.php:129
+msgid "imagecreatefrombmp: %s has %d bits and this is not supported!"
+msgstr "imagecreatefrombmp: %s имеет %d бит и не поддерживается!"
+
+#: libs/imagecreatefrombmp.php:43
+msgid "imagecreatefrombmp: Cannot obtain filesize of %s !"
+msgstr "imagecreatefrombmp: Не удалось получить размер файла %s !"
+
+#: libs/imagecreatefrombmp.php:21
+msgid "imagecreatefrombmp: %s is not a bitmap!"
+msgstr "imagecreatefrombmp: %s - не bitmap!"
+
+#: libs/imagecreatefrombmp.php:14
+msgid "imagecreatefrombmp: Can not open %s!"
+msgstr "imagecreatefrombmp: Не возможно открыть%s!"
+
+#: ajax.php:167
+msgid "ERROR: Attachment with ID of %s not found"
+msgstr "ОШИБКА: Вложение с ID %s не найдено"
+
+#: ajax.php:155
+msgid "SKIPPED: %s (Resize not required)"
+msgstr "ПРОПУЩЕНО: %s (изменение размеров не требуется)"
+
+#: ajax.php:136 ajax.php:138 ajax.php:145 ajax.php:151
+msgid "ERROR: %s (%s)"
+msgstr "ОШИБКА: %s (%s)"
+
+#: ajax.php:129
+msgid "OK: %s"
+msgstr "OK: %s"
+
+#: ajax.php:79
+msgid "Missing ID Parameter"
+msgstr "Пропущенный параметр ID"
